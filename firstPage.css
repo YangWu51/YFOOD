@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 0;
+}
+#firstPage{
+    justify-content: center;
+    background-color: #f4c652;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 0;
+    height: 5%;
+}
+.slider{
+    margin-top: 30%;
+    width: 80%;
+    height: 30%;
+    border-radius: 5%;
+}
